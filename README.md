@@ -1,8 +1,8 @@
 # Real_Time_Object_Detection
 
-Reg no :212223240147
+Reg no :212222110004
 
-Name :SANIYA G
+Name :AMRUTHA S A
 
 # Aim :
 
@@ -89,7 +89,8 @@ cv2.destroyAllWindows()
 ```
 # Output :
 
-![krjhfkjreh](https://github.com/user-attachments/assets/339d061b-c091-4368-9c5a-15ad9555d31c)
+![ijeo](https://github.com/user-attachments/assets/e7a6fab1-c4f5-47b9-816e-5fb69b65450a)
+
 
 
 # Result :
